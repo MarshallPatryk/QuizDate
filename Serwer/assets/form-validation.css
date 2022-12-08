@@ -1,0 +1,31 @@
+.container {
+  max-width: 960px;
+}
+body {
+  background: rgb(67,9,131);
+  background: radial-gradient(circle, rgba(67,9,131,1) 0%, rgba(224,20,255,1) 92%, rgba(255,138,219,1) 100%);
+  color:white;
+}
+.text-muted{
+  color:white!important;
+}
+a{
+  color:white;
+}
+a:hover{
+  color:pink;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  background: rgb(67,9,131);
+  border-color: rgb(67,9,131);
+  color: white;
+}
+.nav-tabs .nav-link.disabled {
+  color: white;
+}
+.colortextblack{
+  color: black;
+}
+.whitebackground{
+  background: white; 
+}
